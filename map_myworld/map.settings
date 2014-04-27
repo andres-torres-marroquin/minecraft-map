@@ -1,0 +1,13 @@
+texture_size = 8
+image_format = png
+lighting_intensity = 1
+render_unknown_blocks = 0
+render_leaves_transparent = 1
+render_biomes = 1
+max_zoom = 9
+
+[rotation:tl]
+last_render = 1398605031
+tile_offset_x = 0
+tile_offset_y = 0
+
