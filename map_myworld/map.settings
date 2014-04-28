@@ -7,7 +7,7 @@ render_biomes = 1
 max_zoom = 9
 
 [rotation:tl]
-last_render = 1398605031
+last_render = 1398691101
 tile_offset_x = 0
 tile_offset_y = 0
 
